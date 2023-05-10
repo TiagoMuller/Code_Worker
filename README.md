@@ -2,12 +2,13 @@
 
 Este é um programa em Java que lê dados de um trabalhador e seus contratos, e calcula a renda desse trabalhador em um determinado mês e ano.
 
-Ferramentas utilizadas
+# Ferramentas utilizadas
 
 Java
+
 Eclipse IDE
 
-Como usar
+# Como usar
 
 O programa solicitará as seguintes informações:
 
@@ -23,7 +24,7 @@ Mês e ano para o cálculo da renda
 
 O resultado será a impressão do nome do trabalhador, departamento e renda mensal calculada.
 
-Conhecimentos aplicados
+# Conhecimentos aplicados
 
 Manipulação de objetos e classes em Java
 
@@ -39,13 +40,13 @@ Cálculo de renda com base nos contratos do trabalhador.
 
 This is a Java program that reads data from a worker and their contracts, and calculates the worker's income in a certain month and year.
 
-Tools used:
+# Tools used:
 
 Java
 
 Eclipse IDE
 
-How to use:
+# How to use:
 
 The program will prompt for the following information:
 
@@ -61,7 +62,7 @@ Month and year for income calculation
 
 The result will print the worker's name, department, and calculated monthly income.
 
-Applied knowledge:
+# Applied knowledge:
 
 Manipulating objects and classes in Java
 
